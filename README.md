@@ -1,0 +1,2 @@
+# Credit
+Desktop credit calculator 
