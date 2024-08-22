@@ -1,0 +1,27 @@
+# Windows specific
+*.suo
+*.user
+*.vcxproj.user
+*.sln.dotSettings
+*.vshost.exe
+*.pdb
+*.exe
+
+# macOS specific
+*.DS_Store
+
+# Linux specific
+.DS_Store
+
+# IDE specific
+*.vscode
+*.idea
+
+# Build artifacts
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.swp
