@@ -25,3 +25,18 @@ obj/
 # Temporary files
 *.tmp
 *.swp
+*.txt
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.json
+*.ipch
+*.recipe
+*.ilk
+*.log
+*.obj
+*.idb
+*.tlog
+*.lastbuildstate
